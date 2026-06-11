@@ -1,0 +1,23 @@
+{
+  "name": "agentgate",
+  "version": "0.1.0",
+  "description": "Validation gates + token-budget kill switch for autonomous coding agents",
+  "author": "iDevelopers",
+  "license": "MIT",
+  "mcpServers": {
+    "agentgate": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@idevelopers/agentgate"
+      ]
+    }
+  },
+  "skills": [
+    "skills/agentgate-workflow/SKILL.md"
+  ],
+  "commands": [
+    "commands/gate.md",
+    "commands/plan.md"
+  ]
+}

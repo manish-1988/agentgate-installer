@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "agentgate-marketplace",
+  "description": "Installer marketplace for AgentGate, a validation gate and budget guardrail plugin for autonomous coding agents.",
+  "owner": {
+    "name": "iDevelopers"
+  },
+  "plugins": [
+    {
+      "name": "agentgate",
+      "description": "Validation gates + token-budget kill switch for autonomous coding agents",
+      "author": {
+        "name": "iDevelopers"
+      },
+      "category": "development",
+      "source": "./",
+      "version": "0.1.0",
+      "homepage": "https://www.npmjs.com/package/@idevelopers/agentgate"
+    }
+  ]
+}
