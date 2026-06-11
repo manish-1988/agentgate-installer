@@ -2,7 +2,7 @@
 
 Public Claude Code and Codex installer metadata for AgentGate.
 
-AgentGate itself is distributed from npm as `@idevelopers/agentgate`. Polar handles paid licenses and issues license keys.
+AgentGate itself is distributed from npm as `@idevelopers/agentgate`. The free tier is the local runtime installed from public npm; the source repository remains private. Polar handles paid licenses and issues license keys.
 
 ## Claude Code Plugin Install
 
@@ -24,4 +24,3 @@ https://buy.polar.sh/polar_cl_VxlhG8lCO6IUcLcveJ51YOXYXMHWdUNorKr0U1bhyqm
 ```
 
 After purchase, activate the issued Polar license key with `agentgate_activate_license`.
-
