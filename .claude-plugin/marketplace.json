@@ -8,14 +8,14 @@
   "plugins": [
     {
       "name": "agentgate",
-      "description": "Validation gates + token-budget kill switch for autonomous coding agents",
+      "description": "Validation gates and token-budget guardrails for AI coding agents",
       "author": {
         "name": "iDevelopers"
       },
       "category": "development",
       "source": "./",
-      "version": "0.1.0",
-      "homepage": "https://www.npmjs.com/package/@idevelopers/agentgate"
+      "version": "0.1.1",
+      "homepage": "https://github.com/manish-1988/agentgate-installer#readme"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "name": "agentgate",
-  "version": "0.1.0",
-  "description": "Validation gates + token-budget kill switch for autonomous coding agents",
+  "version": "0.1.1",
+  "description": "Validation gates and token-budget guardrails for AI coding agents",
   "author": "iDevelopers",
   "license": "MIT",
   "mcpServers": {

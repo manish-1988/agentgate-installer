@@ -1,7 +1,7 @@
 ---
 name: agentgate-workflow
 description: Use when implementing code under AgentGate validation gates, slice scopes, token budgets, or Pro multi-slice plans.
-version: 0.1.0
+version: 0.1.1
 ---
 
 # AgentGate Workflow
